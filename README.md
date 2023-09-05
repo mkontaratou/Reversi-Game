@@ -11,3 +11,7 @@ In this assignment we had to implement the game known as Reversi, a game board f
    >>java Main
    ```
 3. Your input is of the following format: if you want to chose row 5 and column D, when asked you should simply type your input
+
+## Demo 
+
+https://github.com/mkontaratou/Reversi-Game/assets/76455116/3425a9fa-c03f-4dc9-871c-fe0b9daba105
